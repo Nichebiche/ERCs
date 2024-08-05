@@ -1,4 +1,4 @@
----
+---nichebiche
 eip: 67
 title: URI Scheme with Metadata, Value and Bytecode
 description: Format for encoding transactions into a URI
